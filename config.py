@@ -1,4 +1,4 @@
-TOKEN = "5706807992:AAH0rah9wE2krHdosA2IgfkpudTCFk2kSlQ"
+TOKEN = "hidden"
 
 cur = {
     'доллар': 'USD',
